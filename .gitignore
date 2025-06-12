@@ -1,6 +1,7 @@
 ### VS Code ###
 .vscode/
 
+### Carpetas de Microservicios ###
 API_gateway/
 
 MS_cliente/
