@@ -2,23 +2,23 @@
 .vscode/
 
 ### Carpetas de Microservicios ###
-API_gateway/
+/API_gateway/
 
-MS_cliente/
+/MS_cliente/
 
-MS_envio/
+/MS_envio/
 
-MS_inventario/
+/MS_inventario/
 
-MS_producto/
+/MS_producto/
 
-MS_resporte/
+/MS_resporte/
 
-MS_soporte-cliente/
+/MS_soporte-cliente/
 
-MS_usuario/
+/MS_usuario/
 
-MS_vendedor/
+/MS_vendedor/
 
-MS_venta/
+/MS_venta/
 
